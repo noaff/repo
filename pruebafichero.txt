@@ -1,6 +1,11 @@
 sdhdkdjfkdlmc
 
+<<<<<<< HEAD
 jjjjjjjjjjjjjjj
 
 
 qqqqqqqqqqqqqq
+=======
+
+jgfjghjhgj
+>>>>>>> 032c442ea1309c944aefbc00e67058f81126bb8f
